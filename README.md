@@ -1,5 +1,5 @@
 # MiniFCU Serial Reverse Engineering 🚀
-![](assets/minifcu_serial_user.png)
+![](assets/minifcu_serial_user_512.png)
 
 A project meant to provide specifications of the serial protocol used by the official firmware of MiniCOCKPIT MiniFCU Airbus autopilot console and some example use cases.
 
